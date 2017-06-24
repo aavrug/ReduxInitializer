@@ -1,6 +1,6 @@
 {
   "name": "redux-initializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple package for Redux with React and Babel support.",
   "main": "index.js",
   "repository": "git@github.com:aavrug/ReduxInitializer.git",
