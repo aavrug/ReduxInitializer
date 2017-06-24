@@ -1,3 +1,3 @@
-# Redux Starter
+# Redux Initializer
 
-Implementation of Redux.
+Simple package for Redux with React and Babel support

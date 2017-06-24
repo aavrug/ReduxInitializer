@@ -1,12 +1,9 @@
 {
-  "name": "redux-starter",
+  "name": "redux-initializer",
   "version": "1.0.0",
-  "description": "Redux starter package with React and Babel support.",
+  "description": "Simple package for Redux with React and Babel support.",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aavrug/ReduxStarter.git"
-  },
+  "repository": "git@github.com:aavrug/ReduxInitializer.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test:watch": "npm run test -- --watch"
